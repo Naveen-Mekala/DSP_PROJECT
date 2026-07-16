@@ -1,0 +1,116 @@
+{
+  "expectations": [
+    {
+      "id": "f593fb20-abed-405c-ae9a-9f60eb1fb460",
+      "kwargs": {
+        "column": "Athlete_ID"
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_to_exist"
+    },
+    {
+      "id": "6199ef94-a17b-4fa6-886b-e46bed732130",
+      "kwargs": {
+        "column": "Athlete_ID"
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_not_be_null"
+    },
+    {
+      "id": "1dd891de-ccdf-4f8b-b8ba-f0148da442aa",
+      "kwargs": {
+        "column": "Athlete_ID"
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_be_unique"
+    },
+    {
+      "id": "a131daeb-af9d-4d6f-b49b-aa00c2fc4cd8",
+      "kwargs": {
+        "column": "Age",
+        "max_value": 60.0,
+        "min_value": 18.0
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_be_between"
+    },
+    {
+      "id": "170c9d0f-4acd-4960-9305-14c4750ee42e",
+      "kwargs": {
+        "column": "Recovery_Score",
+        "max_value": 100.0,
+        "min_value": 0.0
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_be_between"
+    },
+    {
+      "id": "1271ba6b-33b0-459e-b7c8-4c1ba2a74de8",
+      "kwargs": {
+        "column": "Gender",
+        "value_set": [
+          "Male",
+          "Female"
+        ]
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_be_in_set"
+    },
+    {
+      "id": "348f80e3-1166-4648-b354-d9840353ae9d",
+      "kwargs": {
+        "column": "Sleep_Duration_Hours",
+        "max_value": 24.0,
+        "min_value": 0.0
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_be_between"
+    },
+    {
+      "id": "a49e1426-c65e-4308-9f23-208486a81553",
+      "kwargs": {
+        "column": "Mood_Score",
+        "max_value": 10.0,
+        "min_value": 1.0
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_be_between"
+    },
+    {
+      "id": "74aef7fd-323d-4fef-af56-16d9ce12abf0",
+      "kwargs": {
+        "column": "Energy_Level",
+        "max_value": 10.0,
+        "min_value": 1.0
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_be_between"
+    },
+    {
+      "id": "01340bd5-d12e-4de8-a7bd-d69bf01bfc86",
+      "kwargs": {
+        "column": "Training_Duration_Min",
+        "max_value": 300.0,
+        "min_value": 1.0
+      },
+      "meta": {},
+      "severity": "critical",
+      "type": "expect_column_values_to_be_between"
+    }
+  ],
+  "id": "84891fa7-9a9b-4f30-9450-162b7a43eb4c",
+  "meta": {
+    "great_expectations_version": "1.18.2"
+  },
+  "name": "athlete_suite",
+  "notes": null
+}
