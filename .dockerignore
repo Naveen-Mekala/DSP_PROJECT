@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+.git/
+.gitignore
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+airflow/
+data/raw/
+data/bad_data/
+data/archived_data/
