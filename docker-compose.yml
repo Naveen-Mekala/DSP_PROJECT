@@ -1,0 +1,16 @@
+services:
+  fastapi:
+    build: .
+    container_name: athlete-api
+    command: uvicorn api.main:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+
+  streamlit:
+    build: .
+    container_name: athlete-streamlit
+    command: streamlit run streamlit/Home.py --server.address=0.0.0.0 --server.port=8501
+    ports:
+      - "8501:8501"
+    depends_on:
+      - fastapi
