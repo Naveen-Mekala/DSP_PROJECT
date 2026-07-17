@@ -145,7 +145,7 @@ if submit:
     try:
 
         response = requests.post(
-            "http://127.0.0.1:8000/predict",
+            "http://fastapi:8000/predict",
             json=payload
         )
 

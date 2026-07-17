@@ -33,7 +33,7 @@ if uploaded_file is not None:
             }
 
             response = requests.post(
-                "http://127.0.0.1:8000/batch-predict",
+                "http://fastapi:8000/batch-predict",
                 files=files
             )
 

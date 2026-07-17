@@ -14,7 +14,7 @@ st.markdown("---")
 
 try:
     response = requests.get(
-        "http://127.0.0.1:8000/past-predictions"
+        "http://fastapi:8000/past-predictions"
     )
 
     if response.status_code == 200:

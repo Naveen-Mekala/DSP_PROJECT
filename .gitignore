@@ -5,3 +5,18 @@ venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# Airflow runtime
+airflow/logs/
+
+# Runtime generated data
+data/raw_data/
+data/good_data/
+data/bad_data/
+data/prediction_results.csv
+data/.prediction_processed
+
+# Local archives and duplicate files
+DSP_PROJECT_FINAL.zip
+* 2.py
+Dockerfile 2.airflow
