@@ -1,0 +1,11 @@
+Athlete_ID,Day,Day_of_Week,Week,Age,Gender,Sport_Type,Training_Type,Training_Duration_Min,Training_Intensity,Sleep_Duration_Hours,Caffeine_Intake_mg,Stress_Level,Resting_Heart_Rate,HRV_ms,Mood_Score,Muscle_Soreness,Energy_Level,Recovery_Score
+1134,16,2,3,19.0,Non-binary,Mixed,Cardio,82,7.9,,270,High,62,71,2.1,5.6,1.0,11.8
+1134,17,3,3,19.0,Non-binary,Mixed,Cardio,41,5.6,9.4,306,Low,59,94,7.3,4.8,4.8,100.0
+1134,18,4,3,19.0,Non-binary,Mixed,Cardio,49,5.1,8.4,155,Low,56,91,7.1,5.1,4.0,79.5
+1134,19,5,3,19.0,Non-binary,Mixed,Cardio,86,8.3,6.0,325,High,65,65,3.0,8.4,1.2,5.0
+1134,20,6,3,19.0,Non-binary,Mixed,Cardio,61,5.8,7.9,294,High,61,75,4.9,4.5,2.6,46.5
+1134,21,7,3,19.0,Non-binary,Mixed,Yoga,37,3.4,8.4,0,Medium,60,92,7.0,3.4,4.4,100.0
+1134,22,1,4,19.0,Non-binary,Mixed,HIIT,33,7.4,6.4,282,Medium,61,76,5.6,6.9,1.2,28.3
+1134,23,2,4,19.0,Non-binary,Mixed,Strength,68,6.6,8.4,219,Medium,60,87,6.0,3.9,4.0,81.6
+1134,24,3,4,19.0,Non-binary,Mixed,Strength,63,6.9,7.5,0,Medium,58,91,4.7,7.2,2.8,59.8
+1134,25,4,4,19.0,Non-binary,Mixed,HIIT,41,7.2,8.1,0,Medium,62,83,5.3,5.9,4.3,79.2

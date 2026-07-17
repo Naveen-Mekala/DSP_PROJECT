@@ -1,0 +1,11 @@
+Athlete_ID,Day,Day_of_Week,Week,Age,Gender,Sport_Type,Training_Type,Training_Duration_Min,Training_Intensity,Sleep_Duration_Hours,Caffeine_Intake_mg,Stress_Level,Resting_Heart_Rate,HRV_ms,Mood_Score,Muscle_Soreness,Energy_Level,Recovery_Score
+1175,1,1,1,27.0,Male,Mixed,Strength,52,7.6,7.0,194,Low,57,85,3.6,4.2,6.6,87.1
+1175,2,2,1,27.0,Male,Mixed,HIIT,32,8.6,7.1,0,Low,57,73,7.3,4.9,5.8,77.0
+1175,3,3,1,27.0,Male,Mixed,Strength,66,7.1,7.0,148,Medium,59,69,4.5,5.6,4.1,56.5
+1175,4,4,1,27.0,Male,Mixed,HIIT,27,8.5,7.5,346,Medium,61,63,5.2,5.5,3.6,47.5
+1175,5,5,1,27.0,Male,Mixed,HIIT,29,7.1,7.6,248,Medium,62,64,6.1,8.2,2.7,45.3
+1175,6,6,1,27.0,Male,Mixed,Rest,25,1.5,7.2,251,Medium,61,64,4.9,3.4,3.9,51.2
+1175,7,7,1,27.0,Male,Mixed,Rest,25,1.0,6.5,0,Low,55,78,6.4,1.4,5.0,43.1
+1175,8,1,2,27.0,Male,Mixed,HIIT,19,9.8,7.1,0,High,60,50,2.9,7.8,1.3,7.6
+1175,9,2,2,27.0,Male,Mixed,Cardio,73,6.9,6.8,139,Medium,60,65,4.9,8.4,4.0,39.9
+1175,10,3,2,27.0,Male,Mixed,HIIT,42,9.5,6.5,175,High,65,55,2.8,7.6,1.1,2.6

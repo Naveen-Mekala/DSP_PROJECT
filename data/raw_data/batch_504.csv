@@ -1,0 +1,11 @@
+Athlete_ID,Day,Day_of_Week,Week,Age,Gender,Sport_Type,Training_Type,Training_Duration_Min,Training_Intensity,Sleep_Duration_Hours,Caffeine_Intake_mg,Stress_Level,Resting_Heart_Rate,HRV_ms,Mood_Score,Muscle_Soreness,Energy_Level,Recovery_Score
+1180,1,1,1,33.0,Female,Strength,Strength,73,6.5,8.5,168,Low,57,110,5.9,2.5,8.2,100.0
+1180,2,2,1,33.0,Female,Strength,Strength,59,7.2,5.9,343,High,63,76,3.7,4.4,3.5,28.8
+1180,3,3,1,33.0,Female,Strength,Strength,57,6.2,7.4,267,Low,59,90,6.6,2.4,5.8,93.2
+1180,4,4,1,33.0,Female,Strength,HIIT,44,8.7,8.5,225,Medium,62,92,7.0,5.2,4.5,88.2
+1180,5,5,1,33.0,Female,Strength,Strength,62,6.7,,300,Medium,65,89,5.0,5.9,4.8,63.6
+1180,6,6,1,33.0,Female,Strength,Strength,70,7.2,7.9,0,Medium,60,92,6.1,4.5,3.1,80.5
+1180,7,7,1,33.0,Female,Strength,Rest,43,1.7,6.0,0,Low,63,88,5.9,1.8,2.9,52.6
+1180,8,1,2,33.0,Female,Strength,Strength,68,9.0,7.2,0,Medium,66,76,5.0,8.8,2.8,28.3
+1180,9,2,2,33.0,Female,Strength,Strength,92,7.9,6.9,0,Medium,66,81,4.2,6.5,2.3,47.3
+1180,10,3,2,33.0,Female,Strength,Strength,51,7.6,8.4,193,Medium,65,77,5.9,6.8,1.9,71.0

@@ -1,0 +1,11 @@
+Athlete_ID,Day,Day_of_Week,Week,Age,Gender,Sport_Type,Training_Type,Training_Duration_Min,Training_Intensity,Sleep_Duration_Hours,Caffeine_Intake_mg,Stress_Level,Resting_Heart_Rate,HRV_ms,Mood_Score,Muscle_Soreness,Energy_Level,Recovery_Score
+1029,19,5,3,28.0,Female,Strength,Strength,83,8.2,,343,High,55,66,3.3,7.1,1.0,16.0
+1029,20,6,3,28.0,Female,Strength,Yoga,57,3.8,7.6,0,Medium,55,74,6.0,2.7,1.9,48.0
+1029,21,7,3,28.0,Female,Strength,Rest,10,2.0,7.8,0,Medium,54,83,4.9,1.0,4.6,74.3
+1029,22,1,4,28.0,Female,Strength,Strength,76,4.4,7.8,160,Low,54,75,6.3,3.2,3.9,74.8
+1029,23,2,4,28.0,Female,Strength,Strength,87,5.1,9.0,0,Medium,52,81,6.0,4.4,5.9,83.6
+1029,24,3,4,28.0,Female,Strength,Strength,62,4.7,7.6,250,High,56,72,4.4,2.4,2.4,38.9
+1029,25,4,4,28.0,Female,Strength,HIIT,24,7.0,8.7,236,Medium,51,75,5.4,4.7,2.7,56.2
+1029,26,5,4,28.0,Female,Strength,Strength,75,5.1,8.0,205,High,51,69,6.4,4.6,3.1,44.1
+1029,27,6,4,28.0,Female,Strength,Yoga,79,2.3,8.3,139,Low,53,86,6.3,3.3,5.4,78.8
+1029,28,7,4,28.0,Female,Strength,Yoga,65,1.6,7.0,148,Low,53,81,6.2,1.8,4.4,57.4

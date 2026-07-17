@@ -1,0 +1,11 @@
+Athlete_ID,Day,Day_of_Week,Week,Age,Gender,Sport_Type,Training_Type,Training_Duration_Min,Training_Intensity,Sleep_Duration_Hours,Caffeine_Intake_mg,Stress_Level,Resting_Heart_Rate,HRV_ms,Mood_Score,Muscle_Soreness,Energy_Level,Recovery_Score
+1040,1,1,1,30.0,Female,Strength,Strength,92,6.8,7.3,208,Low,52,81,6.2,2.4,6.2,80.6
+1040,2,2,1,30.0,Female,Strength,HIIT,32,7.8,,324,High,58,67,3.8,5.7,2.2,40.3
+1040,3,3,1,30.0,Female,Strength,Strength,82,7.5,7.4,194,Medium,60,67,4.3,4.8,4.6,44.8
+1040,4,4,1,30.0,Female,Strength,Strength,59,7.2,,259,High,56,69,3.5,5.5,3.6,38.8
+1040,5,5,1,30.0,Female,Strength,Strength,85,5.8,7.3,333,High,54,72,3.6,4.9,3.1,45.5
+1040,6,6,1,30.0,Female,Strength,Strength,51,6.5,8.0,0,High,55,61,3.5,5.3,2.9,22.5
+1040,7,7,1,30.0,Female,Strength,Rest,22,1.5,7.6,139,Medium,53,75,4.0,1.0,3.9,54.3
+1040,8,1,2,30.0,Female,Strength,Strength,52,8.2,6.5,285,High,53,65,5.3,7.5,2.7,12.6
+1040,9,2,2,30.0,Female,Strength,Strength,96,9.7,7.8,283,Medium,57,75,4.8,8.2,1.0,60.5
+1040,10,3,2,30.0,Female,Strength,Strength,62,8.2,,0,Medium,55,70,6.4,7.4,4.3,46.2

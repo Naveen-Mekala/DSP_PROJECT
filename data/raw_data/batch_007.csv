@@ -1,0 +1,11 @@
+Athlete_ID,Day,Day_of_Week,Week,Age,Gender,Sport_Type,Training_Type,Training_Duration_Min,Training_Intensity,Sleep_Duration_Hours,Caffeine_Intake_mg,Stress_Level,Resting_Heart_Rate,HRV_ms,Mood_Score,Muscle_Soreness,Energy_Level,Recovery_Score
+1002,5,5,1,30.0,Male,Strength,Strength,87,6.7,8.1,214,Low,53,86,7.0,4.5,5.2,88.1
+1002,6,6,1,30.0,Male,Strength,Strength,61,6.7,,0,High,54,69,5.0,6.2,2.4,20.7
+1002,7,7,1,30.0,Male,Strength,Rest,23,2.6,7.5,141,Low,51,96,4.6,1.4,6.9,80.8
+1002,8,1,2,30.0,Male,Strength,Strength,50,6.7,7.6,199,High,53,71,2.7,5.7,3.4,37.9
+1002,9,2,2,30.0,Male,Strength,Strength,50,7.8,7.4,257,High,53,80,4.1,4.5,3.6,46.2
+1002,10,3,2,30.0,Male,Strength,Strength,56,7.5,7.4,87,High,55,71,4.6,5.9,2.8,32.1
+1002,11,4,2,30.0,Male,Strength,Strength,73,7.6,8.2,292,Medium,53,73,4.9,7.0,2.0,52.3
+1002,12,5,2,30.0,Male,Strength,Strength,59,7.8,7.1,0,Medium,56,71,4.9,7.4,2.9,33.0
+1002,13,6,2,30.0,Male,Strength,Yoga,51,3.5,,243,Medium,53,76,5.5,5.7,3.5,47.4
+1002,14,7,2,30.0,Male,Strength,Yoga,46,4.2,7.1,0,Medium,52,80,3.9,4.8,2.1,56.7

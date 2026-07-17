@@ -1,0 +1,11 @@
+Athlete_ID,Day,Day_of_Week,Week,Age,Gender,Sport_Type,Training_Type,Training_Duration_Min,Training_Intensity,Sleep_Duration_Hours,Caffeine_Intake_mg,Stress_Level,Resting_Heart_Rate,HRV_ms,Mood_Score,Muscle_Soreness,Energy_Level,Recovery_Score
+1267,15,1,3,28.0,Male,Endurance,HIIT,19,10.0,6.7,0,Medium,56,55,4.4,7.7,3.3,24.5
+1267,16,2,3,28.0,Male,Endurance,Cardio,56,7.1,6.9,265,High,59,52,4.3,5.4,1.9,0.0
+1267,17,3,3,28.0,Male,Endurance,HIIT,49,9.6,8.7,380,Medium,58,62,4.5,8.3,1.8,52.4
+1267,18,4,3,28.0,Male,Endurance,Cardio,67,6.7,8.7,229,Medium,55,71,5.4,5.0,2.2,58.9
+1267,19,5,3,28.0,Male,Endurance,HIIT,31,9.7,,248,High,59,46,2.7,8.4,1.0,0.0
+1267,20,6,3,28.0,Male,Endurance,Cardio,86,5.8,7.7,324,Medium,55,59,5.8,6.1,2.2,20.3
+1267,21,7,3,28.0,Male,Endurance,Rest,10,2.4,6.6,285,Medium,51,72,5.3,1.5,5.4,44.2
+1267,22,1,4,28.0,Male,Endurance,HIIT,20,7.7,8.0,196,Medium,58,55,5.5,7.0,2.6,24.9
+1267,23,2,4,28.0,Male,Endurance,HIIT,55,6.7,7.5,173,Low,55,62,6.6,4.9,4.1,60.6
+1267,24,3,4,28.0,Male,Endurance,HIIT,38,7.4,7.4,340,High,58,57,3.7,5.6,1.0,8.0

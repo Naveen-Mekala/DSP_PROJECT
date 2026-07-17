@@ -1,0 +1,11 @@
+Athlete_ID,Day,Day_of_Week,Week,Age,Gender,Sport_Type,Training_Type,Training_Duration_Min,Training_Intensity,Sleep_Duration_Hours,Caffeine_Intake_mg,Stress_Level,Resting_Heart_Rate,HRV_ms,Mood_Score,Muscle_Soreness,Energy_Level,Recovery_Score
+1041,13,6,2,29.0,Female,Combat,Yoga,53,4.1,5.9,300,High,65,49,2.1,5.6,1.0,0.0
+1041,14,7,2,29.0,Female,Combat,Yoga,45,2.8,7.2,163,Medium,58,64,5.3,3.3,4.4,35.8
+1041,15,1,3,29.0,Female,Combat,Strength,39,9.6,,321,High,64,51,4.3,9.1,1.0,0.0
+1041,16,2,3,29.0,Female,Combat,Strength,57,9.3,5.8,291,Medium,63,46,2.9,7.6,2.4,0.0
+1041,17,3,3,29.0,Female,Combat,Strength,67,6.8,,330,High,66,52,3.4,8.1,1.3,0.0
+1041,18,4,3,29.0,Female,Combat,HIIT,48,8.8,8.3,0,High,64,44,4.2,8.3,1.5,6.2
+1041,19,5,3,29.0,Female,Combat,Strength,75,7.9,7.3,195,Low,61,58,7.4,5.7,3.1,19.1
+1041,20,6,3,29.0,Female,Combat,Rest,17,1.0,7.9,152,Medium,59,62,5.9,1.9,4.7,51.7
+1041,21,7,3,29.0,Female,Combat,Rest,12,1.6,7.4,0,Medium,60,72,5.4,1.7,3.3,62.7
+1041,22,1,4,29.0,Female,Combat,Strength,63,6.6,8.3,271,Medium,300,63,5.6,4.9,5.0,40.2

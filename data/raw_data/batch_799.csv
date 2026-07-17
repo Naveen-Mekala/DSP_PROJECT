@@ -1,0 +1,11 @@
+Athlete_ID,Day,Day_of_Week,Week,Age,Gender,Sport_Type,Training_Type,Training_Duration_Min,Training_Intensity,Sleep_Duration_Hours,Caffeine_Intake_mg,Stress_Level,Resting_Heart_Rate,HRV_ms,Mood_Score,Muscle_Soreness,Energy_Level,Recovery_Score
+1285,21,7,3,24.0,Female,Endurance,Yoga,62,4.0,7.9,227,Medium,48,94,7.2,3.1,2.7,94.8
+1285,22,1,4,24.0,Female,Endurance,Cardio,90,3.5,7.7,252,Medium,54,88,4.9,4.0,4.3,61.6
+1285,23,2,4,24.0,Female,Endurance,Cardio,90,5.0,8.7,266,Medium,49,98,6.7,2.6,4.0,89.6
+1285,24,3,4,24.0,Female,Endurance,HIIT,37,7.7,6.6,345,Medium,49,91,4.9,5.6,4.2,64.5
+1285,25,4,4,24.0,Female,Endurance,Cardio,82,5.8,7.3,235,High,49,85,3.9,4.7,1.0,25.5
+1285,26,5,4,24.0,Female,Endurance,Cardio,73,5.4,7.4,246,Medium,50,90,4.5,4.9,3.1,66.1
+1285,27,6,4,24.0,Female,Endurance,Cardio,65,4.9,6.5,226,Low,51,89,7.1,5.7,3.4,63.6
+1285,28,7,4,24.0,Female,Endurance,Rest,17,1.0,8.1,190,Low,46,110,5.9,1.2,5.3,100.0
+1286,1,1,1,27.0,Non-binary,Strength,Strength,73,6.9,7.5,0,Medium,45,95,5.2,3.4,5.9,87.9
+1286,2,2,1,27.0,Non-binary,Strength,Strength,114,8.5,8.4,0,Low,47,90,7.1,5.3,6.2,100.0

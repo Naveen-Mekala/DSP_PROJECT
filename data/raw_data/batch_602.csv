@@ -1,0 +1,11 @@
+Athlete_ID,Day,Day_of_Week,Week,Age,Gender,Sport_Type,Training_Type,Training_Duration_Min,Training_Intensity,Sleep_Duration_Hours,Caffeine_Intake_mg,Stress_Level,Resting_Heart_Rate,HRV_ms,Mood_Score,Muscle_Soreness,Energy_Level,Recovery_Score
+1215,6,6,1,31.0,Non-binary,Combat,Cardio,71,4.7,7.2,0,Low,60,56,6.0,3.3,2.8,27.6
+1215,7,7,1,31.0,Non-binary,Combat,Rest,22,2.7,6.9,182,Medium,62,63,4.9,2.4,2.9,25.1
+1215,8,1,2,31.0,Non-binary,Combat,HIIT,41,7.9,8.4,239,Medium,56,69,5.9,6.3,5.0,67.0
+1215,9,2,2,31.0,Non-binary,Combat,Strength,55,8.0,8.2,267,Medium,63,62,4.5,7.4,3.4,41.4
+1215,10,3,2,31.0,Non-binary,Combat,Strength,54,6.6,7.1,259,Low,61,60,6.4,6.4,1.6,30.4
+1215,11,4,2,31.0,Non-binary,Combat,Cardio,69,5.8,7.4,194,Medium,63,62,5.4,5.0,3.9,27.2
+1215,12,5,2,31.0,Non-binary,Combat,HIIT,32,8.5,7.8,155,Medium,61,61,6.8,6.9,4.5,48.0
+1215,13,6,2,31.0,Non-binary,Combat,Cardio,67,8.9,6.4,326,High,60,53,4.5,7.3,1.4,7.9
+1215,14,7,2,31.0,Non-binary,Combat,Rest,12,1.6,8.1,0,Medium,57,73,7.0,1.0,4.1,57.6
+1215,15,1,3,31.0,Non-binary,Combat,Strength,69,7.3,5.9,322,High,63,48,3.1,7.4,2.2,0.0

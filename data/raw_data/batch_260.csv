@@ -1,0 +1,11 @@
+Athlete_ID,Day,Day_of_Week,Week,Age,Gender,Sport_Type,Training_Type,Training_Duration_Min,Training_Intensity,Sleep_Duration_Hours,Caffeine_Intake_mg,Stress_Level,Resting_Heart_Rate,HRV_ms,Mood_Score,Muscle_Soreness,Energy_Level,Recovery_Score
+1092,20,6,3,24.0,Non-binary,Strength,Strength,98,8.5,8.7,220,Medium,50,91,5.6,6.4,1.1,79.3
+1092,21,7,3,24.0,Non-binary,Strength,Rest,19,1.1,8.2,0,Low,47,103,7.4,2.3,4.2,100.0
+1092,22,1,4,24.0,Non-binary,Strength,Strength,69,5.1,7.5,242,High,55,83,4.5,5.1,1.7,62.0
+1092,23,2,4,24.0,Non-binary,Strength,HIIT,42,8.6,6.3,246,High,58,77,4.6,6.3,1.1,19.3
+1092,24,3,4,24.0,Non-binary,Strength,Strength,89,5.2,7.9,242,Medium,53,86,5.1,4.7,1.9,70.8
+1092,25,4,4,24.0,Non-binary,Strength,Strength,53,6.5,8.2,321,High,54,76,4.3,4.0,2.0,74.2
+1092,26,5,4,24.0,Non-binary,Strength,Strength,97,6.4,8.2,332,Medium,50,88,7.2,5.7,3.3,78.9
+1092,27,6,4,24.0,Non-binary,Strength,Strength,61,7.0,7.5,219,Low,52,90,7.1,7.3,4.7,62.5
+1092,28,7,4,24.0,Non-binary,Strength,Yoga,41,1.2,7.5,198,Medium,50,91,6.7,1.0,2.9,95.1
+1093,1,1,1,26.0,Female,Endurance,Cardio,66,6.6,8.9,214,Low,47,101,7.8,2.9,8.8,100.0

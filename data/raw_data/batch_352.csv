@@ -1,0 +1,11 @@
+Athlete_ID,Day,Day_of_Week,Week,Age,Gender,Sport_Type,Training_Type,Training_Duration_Min,Training_Intensity,Sleep_Duration_Hours,Caffeine_Intake_mg,Stress_Level,Resting_Heart_Rate,HRV_ms,Mood_Score,Muscle_Soreness,Energy_Level,Recovery_Score
+1125,18,4,3,28.0,Female,Endurance,Cardio,60,8.1,8.0,151,Medium,46,69,6.0,6.7,2.8,41.6
+1125,19,5,3,28.0,Female,Endurance,HIIT,17,8.4,,290,High,49,59,3.3,9.0,2.7,4.9
+1125,20,6,3,28.0,Female,Endurance,Cardio,54,6.1,7.7,0,Medium,50,77,5.1,5.4,3.1,52.0
+1125,21,7,3,28.0,Female,Endurance,Rest,15,1.0,7.4,0,Medium,48,74,5.1,2.2,2.1,37.5
+1125,22,1,4,28.0,Female,Endurance,HIIT,34,7.9,7.8,298,Medium,46,65,6.0,5.5,3.1,48.4
+1125,23,2,4,28.0,Female,Endurance,Cardio,95,3.6,,0,Low,48,71,6.9,4.6,3.0,38.8
+1125,24,3,4,28.0,Female,Endurance,Cardio,50,3.3,8.1,258,Low,47,81,6.0,3.8,3.8,71.5
+1125,25,4,4,28.0,Female,Endurance,Cardio,74,3.9,7.7,0,Low,48,75,6.5,4.7,4.2,63.3
+1125,26,5,4,28.0,Female,Endurance,Cardio,61,3.4,8.8,145,Low,43,82,7.8,1.0,4.3,96.8
+1125,27,6,4,28.0,Female,Endurance,Cardio,73,5.2,7.2,0,Low,45,76,5.0,3.6,5.3,45.7

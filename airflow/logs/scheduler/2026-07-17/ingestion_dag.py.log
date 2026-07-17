@@ -1,0 +1,162 @@
+[2026-07-17T18:34:35.187+0000] {processor.py:186} INFO - Started process (PID=172) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:34:35.190+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:34:35.191+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:34:35.191+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:34:35.375+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:34:35.489+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:34:35.489+0000] {override.py:1912} INFO - Created Permission View: can edit on DAG:athlete_data_ingestion
+[2026-07-17T18:34:35.494+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:34:35.494+0000] {override.py:1912} INFO - Created Permission View: can read on DAG:athlete_data_ingestion
+[2026-07-17T18:34:35.496+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:34:35.496+0000] {override.py:1912} INFO - Created Permission View: can delete on DAG:athlete_data_ingestion
+[2026-07-17T18:34:35.497+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:34:35.497+0000] {override.py:1912} INFO - Created Permission View: can create on DAG Run:athlete_data_ingestion
+[2026-07-17T18:34:35.499+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:34:35.499+0000] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:athlete_data_ingestion
+[2026-07-17T18:34:35.501+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:34:35.501+0000] {override.py:1912} INFO - Created Permission View: can read on DAG Run:athlete_data_ingestion
+[2026-07-17T18:34:35.503+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:34:35.502+0000] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:athlete_data_ingestion
+[2026-07-17T18:34:35.503+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:34:35.503+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:34:35.510+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:34:35.510+0000] {dag.py:3262} INFO - Creating ORM DAG for athlete_data_ingestion
+[2026-07-17T18:34:35.516+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:34:35.516+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:33:00+00:00, run_after=2026-07-17 18:34:00+00:00
+[2026-07-17T18:34:35.527+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.344 seconds
+[2026-07-17T18:35:05.816+0000] {processor.py:186} INFO - Started process (PID=184) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:35:05.818+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:35:05.820+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:35:05.819+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:35:05.954+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:35:05.976+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:35:05.976+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:35:05.986+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:35:05.986+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:34:00+00:00, run_after=2026-07-17 18:35:00+00:00
+[2026-07-17T18:35:05.998+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.186 seconds
+[2026-07-17T18:35:36.132+0000] {processor.py:186} INFO - Started process (PID=196) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:35:36.134+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:35:36.135+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:35:36.135+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:35:36.243+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:35:36.254+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:35:36.253+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:35:36.261+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:35:36.261+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:34:00+00:00, run_after=2026-07-17 18:35:00+00:00
+[2026-07-17T18:35:36.269+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.142 seconds
+[2026-07-17T18:36:06.478+0000] {processor.py:186} INFO - Started process (PID=208) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:36:06.480+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:36:06.484+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:36:06.484+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:36:06.598+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:36:06.608+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:36:06.608+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:36:06.617+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:36:06.617+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:35:00+00:00, run_after=2026-07-17 18:36:00+00:00
+[2026-07-17T18:36:06.625+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.152 seconds
+[2026-07-17T18:36:36.902+0000] {processor.py:186} INFO - Started process (PID=220) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:36:36.903+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:36:36.904+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:36:36.904+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:36:37.017+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:36:37.031+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:36:37.031+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:36:37.039+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:36:37.039+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:35:00+00:00, run_after=2026-07-17 18:36:00+00:00
+[2026-07-17T18:36:37.047+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.150 seconds
+[2026-07-17T18:37:07.230+0000] {processor.py:186} INFO - Started process (PID=232) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:37:07.231+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:37:07.233+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:37:07.233+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:37:07.358+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:37:07.374+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:37:07.373+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:37:07.382+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:37:07.382+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:36:00+00:00, run_after=2026-07-17 18:37:00+00:00
+[2026-07-17T18:37:07.391+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.164 seconds
+[2026-07-17T18:37:37.570+0000] {processor.py:186} INFO - Started process (PID=244) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:37:37.573+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:37:37.574+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:37:37.574+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:37:37.684+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:37:37.694+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:37:37.694+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:37:37.702+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:37:37.702+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:36:00+00:00, run_after=2026-07-17 18:37:00+00:00
+[2026-07-17T18:37:37.708+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.141 seconds
+[2026-07-17T18:38:08.001+0000] {processor.py:186} INFO - Started process (PID=256) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:38:08.003+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:38:08.004+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:38:08.004+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:38:08.120+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:38:08.131+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:38:08.131+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:38:08.139+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:38:08.139+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:37:00+00:00, run_after=2026-07-17 18:38:00+00:00
+[2026-07-17T18:38:08.147+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.153 seconds
+[2026-07-17T18:38:38.346+0000] {processor.py:186} INFO - Started process (PID=268) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:38:38.346+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:38:38.349+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:38:38.349+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:38:38.467+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:38:38.479+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:38:38.479+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:38:38.487+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:38:38.487+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:37:00+00:00, run_after=2026-07-17 18:38:00+00:00
+[2026-07-17T18:38:38.495+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.154 seconds
+[2026-07-17T18:39:08.746+0000] {processor.py:186} INFO - Started process (PID=297) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:39:08.747+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:39:08.753+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:39:08.751+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:39:08.914+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:39:08.935+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:39:08.935+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:39:08.944+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:39:08.944+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:38:00+00:00, run_after=2026-07-17 18:39:00+00:00
+[2026-07-17T18:39:08.953+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.212 seconds
+[2026-07-17T18:39:39.072+0000] {processor.py:186} INFO - Started process (PID=326) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:39:39.074+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:39:39.074+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:39:39.074+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:39:39.227+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:39:39.244+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:39:39.244+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:39:39.258+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:39:39.258+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:39:00+00:00, run_after=2026-07-17 18:40:00+00:00
+[2026-07-17T18:39:39.263+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.194 seconds
+[2026-07-17T18:40:09.589+0000] {processor.py:186} INFO - Started process (PID=368) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:40:09.590+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:40:09.591+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:40:09.591+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:40:09.738+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:40:09.756+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:40:09.756+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:40:09.766+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:40:09.766+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:40:00+00:00, run_after=2026-07-17 18:41:00+00:00
+[2026-07-17T18:40:09.776+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.191 seconds
+[2026-07-17T18:40:39.990+0000] {processor.py:186} INFO - Started process (PID=380) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:40:39.991+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:40:39.993+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:40:39.993+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:40:40.166+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:40:40.187+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:40:40.187+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:40:40.207+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:40:40.207+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:40:00+00:00, run_after=2026-07-17 18:41:00+00:00
+[2026-07-17T18:40:40.215+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.232 seconds
+[2026-07-17T18:41:10.395+0000] {processor.py:186} INFO - Started process (PID=410) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:41:10.396+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:41:10.398+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:41:10.398+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:41:10.575+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:41:10.595+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:41:10.595+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:41:10.615+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:41:10.615+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:41:00+00:00, run_after=2026-07-17 18:42:00+00:00
+[2026-07-17T18:41:10.627+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.237 seconds
+[2026-07-17T18:41:40.825+0000] {processor.py:186} INFO - Started process (PID=422) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:41:40.827+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:41:40.829+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:41:40.829+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:41:41.113+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:41:41.140+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:41:41.140+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:41:41.155+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:41:41.154+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:41:00+00:00, run_after=2026-07-17 18:42:00+00:00
+[2026-07-17T18:41:41.165+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.345 seconds
+[2026-07-17T18:42:11.280+0000] {processor.py:186} INFO - Started process (PID=449) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:42:11.282+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:42:11.285+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:42:11.284+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:42:11.398+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:42:11.410+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:42:11.410+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:42:11.419+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:42:11.419+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:42:00+00:00, run_after=2026-07-17 18:43:00+00:00
+[2026-07-17T18:42:11.429+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.153 seconds
+[2026-07-17T18:42:41.788+0000] {processor.py:186} INFO - Started process (PID=461) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:42:41.788+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:42:41.791+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:42:41.791+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:42:41.969+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:42:41.990+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:42:41.990+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:42:42.008+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:42:42.008+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:42:00+00:00, run_after=2026-07-17 18:43:00+00:00
+[2026-07-17T18:42:42.017+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.235 seconds
+[2026-07-17T18:43:12.148+0000] {processor.py:186} INFO - Started process (PID=477) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:43:12.150+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:43:12.152+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:43:12.151+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:43:12.420+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:43:12.465+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:43:12.465+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:43:12.499+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:43:12.499+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:43:00+00:00, run_after=2026-07-17 18:44:00+00:00
+[2026-07-17T18:43:12.512+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.371 seconds
+[2026-07-17T18:43:42.771+0000] {processor.py:186} INFO - Started process (PID=496) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:43:42.772+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:43:42.777+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:43:42.777+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:43:43.012+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:43:43.047+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:43:43.047+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:43:43.065+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:43:43.065+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:43:00+00:00, run_after=2026-07-17 18:44:00+00:00
+[2026-07-17T18:43:43.077+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.312 seconds
+[2026-07-17T18:44:13.373+0000] {processor.py:186} INFO - Started process (PID=557) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:44:13.374+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:44:13.377+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:44:13.377+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:44:13.563+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:44:13.588+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:44:13.588+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:44:13.609+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:44:13.609+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:44:00+00:00, run_after=2026-07-17 18:45:00+00:00
+[2026-07-17T18:44:13.622+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.253 seconds
+[2026-07-17T18:44:43.776+0000] {processor.py:186} INFO - Started process (PID=605) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:44:43.777+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:44:43.779+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:44:43.779+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:44:43.977+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:44:43.995+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:44:43.994+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:44:44.010+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:44:44.010+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:44:00+00:00, run_after=2026-07-17 18:45:00+00:00
+[2026-07-17T18:44:44.023+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.251 seconds
+[2026-07-17T18:45:14.262+0000] {processor.py:186} INFO - Started process (PID=637) to work on /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:45:14.263+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/ingestion_dag.py for tasks to queue
+[2026-07-17T18:45:14.266+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:45:14.266+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:45:14.420+0000] {processor.py:925} INFO - DAG(s) 'athlete_data_ingestion' retrieved from /opt/airflow/dags/ingestion_dag.py
+[2026-07-17T18:45:14.435+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:45:14.435+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-17T18:45:14.448+0000] {logging_mixin.py:190} INFO - [2026-07-17T18:45:14.448+0000] {dag.py:4180} INFO - Setting next_dagrun for athlete_data_ingestion to 2026-07-17 18:45:00+00:00, run_after=2026-07-17 18:46:00+00:00
+[2026-07-17T18:45:14.457+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/ingestion_dag.py took 0.200 seconds

@@ -1,0 +1,11 @@
+Athlete_ID,Day,Day_of_Week,Week,Age,Gender,Sport_Type,Training_Type,Training_Duration_Min,Training_Intensity,Sleep_Duration_Hours,Caffeine_Intake_mg,Stress_Level,Resting_Heart_Rate,HRV_ms,Mood_Score,Muscle_Soreness,Energy_Level,Recovery_Score
+1169,19,5,3,26.0,Male,Strength,Strength,84,9.2,7.1,0,Medium,64,67,4.1,7.6,1.2,11.0
+1169,20,6,3,26.0,Alien,Strength,Yoga,69,4.6,7.7,0,Medium,61,89,3.7,5.4,1.0,68.3
+1169,21,7,3,26.0,Male,Strength,Yoga,66,3.5,7.9,223,Medium,63,88,4.9,1.8,4.1,69.4
+1169,22,1,4,26.0,Male,Strength,Strength,66,8.2,7.9,235,Medium,62,83,4.3,8.7,3.5,50.4
+1169,23,2,4,26.0,Male,Strength,Strength,77,6.1,6.7,200,Medium,62,81,4.9,5.8,2.4,49.0
+1169,24,3,4,26.0,Male,Strength,Strength,69,6.2,7.0,375,High,63,79,2.8,7.0,1.9,34.1
+1169,25,4,4,26.0,Male,Strength,Strength,88,5.9,6.0,200,Low,62,76,6.5,8.6,2.8,35.3
+1169,26,5,4,26.0,Male,Strength,Strength,54,4.9,7.5,311,Medium,58,83,5.9,4.8,2.6,77.4
+1169,27,6,4,26.0,Male,Strength,Strength,73,7.1,8.2,0,Medium,57,93,4.9,5.7,3.1,92.3
+1169,28,7,4,26.0,Male,Strength,Yoga,40,2.2,8.0,0,Medium,61,83,5.9,3.2,5.0,71.6

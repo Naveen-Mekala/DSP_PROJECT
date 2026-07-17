@@ -1,0 +1,11 @@
+Athlete_ID,Day,Day_of_Week,Week,Age,Gender,Sport_Type,Training_Type,Training_Duration_Min,Training_Intensity,Sleep_Duration_Hours,Caffeine_Intake_mg,Stress_Level,Resting_Heart_Rate,HRV_ms,Mood_Score,Muscle_Soreness,Energy_Level,Recovery_Score
+1158,25,4,4,24.0,Male,Combat,Cardio,77,5.5,8.3,223,Low,58,103,7.5,4.0,4.9,100.0
+1158,26,5,4,24.0,Male,Combat,HIIT,49,6.6,7.3,0,Low,67,88,5.5,6.5,4.9,68.4
+1158,27,6,4,24.0,Male,Combat,Yoga,81,2.6,7.9,224,Medium,61,103,5.8,2.2,3.2,95.0
+1158,28,7,4,24.0,Male,Combat,Yoga,86,3.3,7.8,203,Low,61,107,6.0,4.1,7.7,100.0
+1159,1,1,1,20.0,Male,Endurance,Cardio,79,5.1,7.4,0,Medium,44,103,4.8,1.3,6.7,97.9
+1159,2,2,1,20.0,Male,Endurance,Cardio,64,6.7,8.2,285,Medium,44,109,6.2,1.5,6.0,100.0
+1159,3,3,1,20.0,Male,Endurance,HIIT,36,7.0,7.7,181,Low,38,102,6.8,5.7,5.1,100.0
+1159,4,4,1,20.0,Male,Endurance,Cardio,89,6.1,7.4,0,Medium,48,101,5.6,3.0,4.4,88.1
+1159,5,5,1,20.0,Male,Endurance,Cardio,59,5.7,7.8,301,Medium,45,93,5.8,4.1,3.9,92.0
+1159,6,6,1,20.0,Male,Endurance,Cardio,87,6.5,,221,Low,47,98,7.1,4.2,3.6,82.7
